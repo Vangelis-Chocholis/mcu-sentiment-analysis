@@ -8,13 +8,13 @@ A variety of [ML models](ml_models.ipynb) have been evaluated. The One-vs-Rest c
 
 - One-vs-Rest (classifier: Logistic Regression)  
 
-![Alt text](ovr-logistic-regression.png)
+![Alt text](images/ovr-logistic-regression.png)
 
 
 
 - One-vs-Rest (classifier: Random Forest Classifier)  
 
-![Alt text](ovr-random-forest.png)
+![Alt text](images/ovr-random-forest.png)
 
 
 
@@ -22,10 +22,10 @@ A variety of [ML models](ml_models.ipynb) have been evaluated. The One-vs-Rest c
 
 - XGBoost Classifier
 
-![Alt text](xgboost.png)
+![Alt text](images/xgboost.png)
 
 
 
 - Finetuned BERT model for Sequence Classfication
 
-![Alt text](bert-finetuned.png)
+![Alt text](images/bert-finetuned.png)
